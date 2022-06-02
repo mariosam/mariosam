@@ -1,4 +1,4 @@
-## Scientist, mathematician, engineer, inventor, anatomist, painter, sculptor, architect, botanist, poet and musician... this was Leonardo da Vinci... I'm more focused, I started programming in 1999 and I haven't stopped anymore (I love it) .
+## Scientist, mathematician, engineer, inventor, anatomist, painter, sculptor, architect, botanist, poet and musician... this was Leonardo da Vinci... I'm more focused, I started programming in 1999 and I haven't stopped anymore.
 <div align="center">
   <a href="https://github.com/mariosam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariosam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
